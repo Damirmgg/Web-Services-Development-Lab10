@@ -37,8 +37,6 @@ $(NMakeBuildCommandLine)</NMakeReBuildCommandLine>
     <None Include="main.go" />
     <None Include="manager.go" />
     <None Include="go.mod" />
-    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
 </Project>
-
